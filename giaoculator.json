@@ -1,6 +1,7 @@
 {
     "version": [4,6,0],
     "url": "https://lanbin.top",
+    "force": false,
     "updateLog": [
         "修复了一些BUG",
         "优化了程序性能",
